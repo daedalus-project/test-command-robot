@@ -1,0 +1,30 @@
+Drive
+
+4 motors (2 Talons? - Fwd/Bak)
+--------------------------
+
+Conveyor-Feed
+
+4 motors (2 Talons? - Fwd/Bak)
+
+--
+
+Conveyor - Lift
+4 air cyl - 2 controllers (2 cyl per controller)
+
+--------------------------
+Ball Pickup
+
+4 3-position cyl (2 pairs - 2 solenoids per pair)
+
+--------------------------
+Ball Throw
+
+4 talons on/off
+Maybe encoders with PID control
+
+--------------------------
+Umbrella
+2 or 4 motors with 2 or 4 touch sensors
+OR
+4 air cylinders with 2 or 4 solenoids
