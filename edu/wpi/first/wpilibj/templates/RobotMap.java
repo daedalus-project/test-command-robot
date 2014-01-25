@@ -25,7 +25,17 @@ public class RobotMap {
     public static final int WHEEL_CRIO_SLOT = 1;
     public static final int PNEUMATIC_CRIO_SLOT = 1;
     
-    public static final int BALLGUIDE_SOLENOID_SLOT = 2;
+    public static final int BALLGUIDE_SOLENOID_SLOT = PNEUMATIC_CRIO_SLOT;
     public static final int BALLGUIDE_FIRST_SOLENOID = 3;
     public static final int BALLGUIDE_SECOND_SOLENOID = 4;
+    
+    public static final int CONVEYOR_CRIO_SLOT = 1;
+    public static final int CONVEYOR_TOP_LEFT = 2;
+    public static final int CONVEYOR_TOP_RIGHT = 3;
+    public static final int CONVEYOR_BTM_LEFT = 4;
+    public static final int CONVEYOR_BTM_RIGHT = 5;
+    
+    public static final int CONVEYOR_SOLENOID_SLOT = PNEUMATIC_CRIO_SLOT;
+    public static final int CONVEYOR_SOLENOID_LEFT = 2;
+    public static final int CONVEYOR_SOLENOID_RIGHT = 3;
 }

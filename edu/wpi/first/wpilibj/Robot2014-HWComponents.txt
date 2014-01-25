@@ -1,11 +1,11 @@
 Drive
 
-4 motors (2 Talons? - Fwd/Bak)
+4 motors (4 Talons - Fwd/Bak)
 --------------------------
 
 Conveyor-Feed
 
-4 motors (2 Talons? - Fwd/Bak)
+4 motors (4 Talons - Fwd/Bak)
 
 --
 
